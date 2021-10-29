@@ -1,22 +1,10 @@
 {
   "name": "minimal-repo-starter",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/evillt/minimal-repo-starter.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/evillt/minimal-repo-starter/issues"
-  },
-  "homepage": "https://github.com/evillt/minimal-repo-starter#readme",
+  "scripts": {},
+  "license": "MIT",
   "devDependencies": {
     "@2nthony/prettier-config": "^1.0.0"
   }
